@@ -1,0 +1,16 @@
+{
+  "name": "namonamh-php",
+  "description": "just for testing",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ]
+}
