@@ -1,3 +1,8 @@
-<?php
-  echo "Namonamh";
-?>
+public class Namonamh{
+  public Namonamh(){
+
+  }
+  public getMethod(){
+    
+  }
+}
